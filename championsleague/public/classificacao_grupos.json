@@ -1,0 +1,77 @@
+{
+  "grupos": [
+    {
+      "nome": "Grupo A",
+      "classificacao": [
+        {"posicao": 1, "time": "Bayern Munich", "pontos": 16, "jogos": 6, "vitorias": 4, "empates": 0, "derrotas": 2, "saldo_gols": 10, "gols_pro": 15, "gols_contra": 5, "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShKS4K89JmfRERPMQ-4sbJRmy1JkfPGSHaMA&s"},
+        {"posicao": 2, "time": "Copenhague", "pontos": 8, "jogos": 6, "vitorias": 3, "empates": 1, "derrotas": 2, "saldo_gols": 4, "gols_pro": 8, "gols_contra": 4, "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/909.png"},
+        {"posicao": 3, "time": "Galatasaray", "pontos": 5, "jogos": 6, "vitorias": 2, "empates": 1, "derrotas": 3, "saldo_gols": -2, "gols_pro": 6, "gols_contra": 8, "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Galatasaray_4_Sterne_Logo.svg/1200px-Galatasaray_4_Sterne_Logo.svg.png"},
+        {"posicao": 4, "time": "Manchester United", "pontos": 4, "jogos": 6, "vitorias": 1, "empates": 2, "derrotas": 3, "saldo_gols": -12, "gols_pro": 3, "gols_contra": 15, "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/640px-Manchester_United_FC_crest.svg.png"}
+      ]
+    },
+    {
+      "nome": "Grupo B",
+      "classificacao": [
+        {"posicao": 1, "time": "Arsenal", "pontos": 13, "jogos": 6, "vitorias": 5, "empates": 0, "derrotas": 1, "saldo_gols": 12, "gols_pro": 18, "gols_contra": 6, "imagem": "https://logodetimes.com/times/arsenal-football-club/arsenal-football-club-768.png"},
+        {"posicao": 2, "time": "PSV", "pontos": 9, "jogos": 6, "vitorias": 4, "empates": 1, "derrotas": 1, "saldo_gols": 7, "gols_pro": 15, "gols_contra": 8, "imagem": "https://upload.wikimedia.org/wikipedia/pt/c/ca/PSV_Eindhoven_escudo.png"},
+        {"posicao": 3, "time": "Lens", "pontos": 8, "jogos": 6, "vitorias": 2, "empates": 1, "derrotas": 3, "saldo_gols": -2, "gols_pro": 6, "gols_contra": 8, "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/8d/RC_Lens.png"},
+        {"posicao": 4, "time": "Sevilla", "pontos": 2, "jogos": 6, "vitorias": 1, "empates": 2, "derrotas": 3, "saldo_gols": -17, "gols_pro": 2, "gols_contra": 19, "imagem": "https://upload.wikimedia.org/wikipedia/pt/c/cd/Sevilla_cf.png"}
+      ]
+    },
+    {
+      "nome": "Grupo C",
+      "classificacao": [
+        {"posicao": 1, "time": "Real Madrid", "pontos": 18, "jogos": 6, "vitorias": 6, "empates": 0, "derrotas": 0, "saldo_gols": 20, "gols_pro": 25, "gols_contra": 5, "imagem": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg"},
+        {"posicao": 2, "time": "Napoli", "pontos": 10, "jogos": 6, "vitorias": 3, "empates": 1, "derrotas": 2, "saldo_gols": 4, "gols_pro": 12, "gols_contra": 8, "imagem": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/114.png"},
+        {"posicao": 3, "time": "Braga", "pontos": 4, "jogos": 6, "vitorias": 2, "empates": 0, "derrotas": 4, "saldo_gols": -7, "gols_pro": 6, "gols_contra": 13, "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2994.png"},
+        {"posicao": 4, "time": "Union Berlin", "pontos": 2, "jogos": 6, "vitorias": 1, "empates": 1, "derrotas": 4, "saldo_gols": -17, "gols_pro": 3, "gols_contra": 20, "imagem": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png"}
+      ]
+    },
+    {
+      "nome": "Grupo D",
+      "classificacao": [
+        {"posicao": 1, "time": "Real Sociedad", "pontos": 12, "jogos": 6, "vitorias": 4, "empates": 1, "derrotas": 1, "saldo_gols": 9, "gols_pro": 14, "gols_contra": 5, "imagem": "https://static.vecteezy.com/ti/vetor-gratis/p1/27011291-real-sociedad-clube-logotipo-simbolo-la-liga-espanha-futebol-abstrato-projeto-ilustracao-gratis-vetor.jpg"},
+        {"posicao": 2, "time": "Inter Milan", "pontos": 12, "jogos": 6, "vitorias": 4, "empates": 0, "derrotas": 2, "saldo_gols": 5, "gols_pro": 12, "gols_contra": 7, "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj9o913jHUaZFwj6pGyocMsqEMk_p0VIlvag&s"},
+        {"posicao": 3, "time": "Benfica", "pontos": 4, "jogos": 6, "vitorias": 2, "empates": 1, "derrotas": 3, "saldo_gols": -3, "gols_pro": 7, "gols_contra": 10, "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1929.png"},
+        {"posicao": 4, "time": "Salzburg", "pontos": 4, "jogos": 6, "vitorias": 1, "empates": 0, "derrotas": 5, "saldo_gols": -11, "gols_pro": 4, "gols_contra": 15, "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2790.png"}
+      ]
+    },
+    {
+      "nome": "Grupo E",
+      "classificacao": [
+        {"posicao": 1, "time": "Atletico Madrid", "pontos": 14, "jogos": 6, "vitorias": 5, "empates": 1, "derrotas": 0, "saldo_gols": 10, "gols_pro": 15, "gols_contra": 5, "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1068.png"},
+        {"posicao": 2, "time": "Lazio", "pontos": 10, "jogos": 6, "vitorias": 4, "empates": 0, "derrotas": 2, "saldo_gols": 5, "gols_pro": 10, "gols_contra": 5, "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw-rLS2RxZUYMhtTiCZiYtCwQZG-hFff2xxA&s"},
+        {"posicao": 3, "time": "Feyenoord", "pontos": 6, "jogos": 6, "vitorias": 2, "empates": 1, "derrotas": 3, "saldo_gols": -2, "gols_pro": 6, "gols_contra": 8, "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_Sportclub_Feyenoord.png"},
+        {"posicao": 4, "time": "Celtic", "pontos": 4, "jogos": 6, "vitorias": 1, "empates": 0, "derrotas": 5, "saldo_gols": -12, "gols_pro": 3, "gols_contra": 15, "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/39/Celtic_FC_logo.png"}
+      ]
+    },
+    {
+      "nome": "Grupo F",
+      "classificacao": [
+        {"posicao": 1, "time": "Borussia Dortmund", "pontos": 11, "jogos": 6, "vitorias": 6, "empates": 0, "derrotas": 0, "saldo_gols": 20, "gols_pro": 25, "gols_contra": 5, "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShfbiSD_5A0g1kvthIGa_CupNgP5Yp9VNIyQ&s"},
+        {"posicao": 2, "time": "PSG", "pontos": 8, "jogos": 6, "vitorias": 4, "empates": 0, "derrotas": 2, "saldo_gols": 5, "gols_pro": 10, "gols_contra": 5, "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoAUWw9Fx_Ks3QnHlAFFXKhwLqIKZw-QLdw&s"},
+        {"posicao": 3, "time": "Milan", "pontos": 8, "jogos": 6, "vitorias": 2, "empates": 1, "derrotas": 3, "saldo_gols": -2, "gols_pro": 6, "gols_contra": 8, "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg"},
+        {"posicao": 4, "time": "Newcastle", "pontos": 5, "jogos": 6, "vitorias": 1, "empates": 0, "derrotas": 5, "saldo_gols": -12, "gols_pro": 3, "gols_contra": 15, "imagem": "https://static.vecteezy.com/ti/vetor-gratis/p3/15863609-logotipo-do-newcastle-united-em-fundo-transparente-gratis-vetor.jpg"}
+      ]
+    },
+
+    {
+      "nome": "Grupo G",
+      "classificacao": [
+        {"posicao": 1, "time": "Manchester City", "pontos": 18, "jogos": 6, "vitorias": 5, "empates": 1, "derrotas": 0, "saldo_gols": 12, "gols_pro": 18, "gols_contra": 6, "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/02/Manchester_City_Football_Club.png"},
+        {"posicao": 2, "time": "RB Leipzig", "pontos": 12, "jogos": 6, "vitorias": 4, "empates": 1, "derrotas": 1, "saldo_gols": 7, "gols_pro": 15, "gols_contra": 8, "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSueV85pVyj0hQf7zaku4biBriuPdDwMTzF6Q&s"},
+        {"posicao": 3, "time": "Young Boys", "pontos": 4, "jogos": 6, "vitorias": 2, "empates": 1, "derrotas": 3, "saldo_gols": -2, "gols_pro": 6, "gols_contra": 8, "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2722.png"},
+        {"posicao": 4, "time": "Estrela Vermelha", "pontos": 1, "jogos": 6, "vitorias": 1, "empates": 0, "derrotas": 5, "saldo_gols": -17, "gols_pro": 2, "gols_contra": 19, "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/485.png"}
+      ]
+    },
+    {
+      "nome": "Grupo H",
+      "classificacao": [
+        {"posicao": 1, "time": "Barcelona", "pontos": 12, "jogos": 6, "vitorias": 6, "empates": 0, "derrotas": 0, "saldo_gols": 20, "gols_pro": 25, "gols_contra": 5, "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/83.png"},
+        {"posicao": 2, "time": "Porto", "pontos": 12, "jogos": 6, "vitorias": 4, "empates": 0, "derrotas": 2, "saldo_gols": 5, "gols_pro": 12, "gols_contra": 7, "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQjP3GDtYVK4z6tdH49R9FBuzuZ1VDIuWjQ&s"},
+        {"posicao": 3, "time": "Shakhtar Donetsk", "pontos": 9, "jogos": 6, "vitorias": 2, "empates": 1, "derrotas": 3, "saldo_gols": -3, "gols_pro": 7, "gols_contra": 10, "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/493.png"},
+        {"posicao": 4, "time": "Royal Antwerp", "pontos": 3, "jogos": 6, "vitorias": 1, "empates": 0, "derrotas": 5, "saldo_gols": -11, "gols_pro": 4, "gols_contra": 15, "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFuKWCgDrBufChakemFlW2z8YW8p4lZ87tJw&s"}
+      ]
+    }
+  ]
+}

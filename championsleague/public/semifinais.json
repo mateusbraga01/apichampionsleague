@@ -1,0 +1,6 @@
+{
+  "semifinais": [
+    {"time_casa": "Bayern Munich", "time_visitante": "Real Madrid", "resultado": "3-4", "vencedor": "Real Madrid", "imagem_casa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShKS4K89JmfRERPMQ-4sbJRmy1JkfPGSHaMA&s", "imagem_visitante": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg"},
+    {"time_casa": "PSG", "time_visitante": "Borussia Dortmund", "resultado": "0-2", "vencedor": "Borussia Dortmund", "imagem_casa": "https://upload.wikimedia.org/wikipedia/pt/d/d2/Logo_PSG.png", "imagem_visitante": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSAzGlGZOAb-kMMidah-qhCO-xdq43Cmw1cQ&s"}
+  ]
+}
